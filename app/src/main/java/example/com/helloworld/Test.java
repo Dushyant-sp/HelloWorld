@@ -17,6 +17,11 @@ public class Test {
         Log.d("TAG","Hello");
     }
 
+    void lag2(){
+
+        
+    }
+
 
 
 }
